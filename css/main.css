@@ -1,0 +1,15 @@
+.img-flex {
+  width: 100%;
+}
+
+.embed {
+  position: relative;
+}
+
+.embed-item {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
